@@ -1,0 +1,13 @@
+Name,Age,Marks,City,Date
+ Arun ,18.0,85,Bangalore,2026-01-10
+Ravi,19.0,,Mysore,2026-01-11
+Priya,,92,BANGALORE,2026-01-12
+Kiran,20.0,75,,not-a-date
+ Arun ,18.0,85,Bangalore,2026-01-10
+Sneha,21.0,28,Chennai,2026-01-15
+Manoj,19.0,abc,Mysore,2026-01-16
+Divya,,88,Bengaluru,2026-01-17
+Rahul,20.0,67,Delhi,2026-01-18
+Anita,18.0,,Chennai,2026-01-19
+Vikram,22.0,105,,2026-01-20
+Pooja,19.0,-5,Bangalore,2026-01-21
